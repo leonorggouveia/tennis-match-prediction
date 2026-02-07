@@ -1,8 +1,5 @@
----
-title: "ATP Tennis Match - Set Prediction Project"
-author: "Leonor Gouveia"
-output: github_document
----
+# ATP Tennis Match - Set Prediction Project
+Leonor Gouveia
 
 ## Project Overview
 
@@ -73,3 +70,4 @@ The models were evaluated using **Cross-Validation** and **Confusion Matrices**.
 2.  **Analysis:** Open `01_eda_and_cleaning.R` in RStudio to process the exported data.
 
 3.  **Modeling:** Run `02_predictive_modeling.R` to train the models and see the evaluation metrics.
+
